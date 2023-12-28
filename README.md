@@ -4,7 +4,7 @@ First download the iSOM toolbox from this link (http://www.cis.hut.fi/somtoolbox
 
 File details:
 
-Matlab code files for running the iSOM code.
+Matlab code files for running the iSOM code (withOSgold.m) .
 
 goldstein_problem.R- Gifi methods code.
 
